@@ -1,5 +1,7 @@
-jQuery lightbox clone - prettyPhoto v3.1.4
+jQuery lightbox clone 
 ==========================================
+prettyPhoto v3.1.4
+
 
 
 prettyPhoto is a jQuery based lightbox clone. 
@@ -13,40 +15,6 @@ for all the details on how to use.
 
 
 by Stephane Caron
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
