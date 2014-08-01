@@ -14,3 +14,40 @@ for all the details on how to use.
 
 by Stephane Caron
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![Analytics](https://ga-beacon.appspot.com/UA-52945774-6/estefainions/jq.pettyphoto)](https://github.com/igrigorik/ga-beacon)
